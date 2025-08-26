@@ -1,4 +1,6 @@
-## Hi there 👋
+## Sofia Dominguez
+
+I'm a student at MIT insterested in machine learning and finance.
 
 <!--
 **sofia-dominguezc/sofia-dominguezc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
