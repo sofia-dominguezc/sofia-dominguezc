@@ -2,6 +2,10 @@
 
 I'm a student at MIT insterested in machine learning and finance.
 
+I recently completed an internship at Citadel and currently I'm looking for a UROP for the fall.
+
+Linkedin: https://www.linkedin.com/in/sofia-dominguezc
+
 <!--
 **sofia-dominguezc/sofia-dominguezc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
