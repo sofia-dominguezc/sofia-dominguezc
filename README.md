@@ -2,7 +2,7 @@
 
 I'm a student at MIT insterested in machine learning and finance.
 
-I recently completed an internship at Citadel and currently I'm looking for a UROP for the fall.
+I recently completed an internship at Citadel and I'm currently looking for a UROP for this fall.
 
 Linkedin: https://www.linkedin.com/in/sofia-dominguezc
 
