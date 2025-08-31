@@ -2,7 +2,7 @@
 
 I'm a student at MIT insterested in machine learning and finance.
 
-I recently completed an internship at Citadel and I'm currently working on Machine Learning/Cognitive Science research.
+I recently completed an internship at Citadel and I'm currently working on a Machine Learning/Cognitive Science research project with Jaedong Hwang.
 
 Linkedin: https://www.linkedin.com/in/sofia-dominguezc
 
