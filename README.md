@@ -2,7 +2,7 @@
 
 I'm a student at MIT insterested in machine learning and finance.
 
-I recently completed an internship at Citadel and I'm currently working on training a <a href="[https://ieeexplore.ieee.org/document/10096889](https://arxiv.org/abs/2503.00580)">Brain Foundation Model</a> with <a href="https://jd730.github.io">Jaedong Hwang</a>.
+I recently completed an internship at Citadel and I'm currently working on training a <a href="https://arxiv.org/abs/2503.00580">Brain Foundation Model</a> with <a href="https://jd730.github.io">Jaedong Hwang</a>.
 
 Resume: [Resume Sofia Dominguez.pdf](https://github.com/user-attachments/files/22306814/Resume.Sofia.Dominguez.pdf)
 
