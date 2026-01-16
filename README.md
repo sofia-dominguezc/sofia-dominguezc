@@ -1,12 +1,15 @@
 ## Sofia Dominguez
 
-I'm a student at MIT insterested in machine learning and finance.
+I'm an MIT student insterested in machine learning research and multuple applications.
 
-I recently completed an internship at Citadel and I'm currently working on training a <a href="https://arxiv.org/abs/2503.00580">Brain Foundation Model</a> with <a href="https://jd730.github.io">Jaedong Hwang</a> using MIT's computing cluster.
+I'm currently working on a Brain Foundation Model with <a href="https://jd730.github.io">Jaedong Hwang</a> and <a href="https://github.com/thomas-cong">Thomas Cong</a>, where we aim to generate high quality brain fMRI samples from multimodal conditioning (EEG, MRI).
 
-Resume: [Resume Sofia Dominguez.pdf](https://github.com/user-attachments/files/22399869/Resume.Sofia.Dominguez.pdf)
+I also like math (geometry!), and I did an internship at <a href="https://www.citadel.com/careers/details/launch-intern-us/">Citadel</a> last Summer.
+
+Resume: [Resume Sofia Dominguez.pdf](https://github.com/user-attachments/files/24658770/Resume.Sofia.Dominguez.pdf)
 
 Linkedin: https://www.linkedin.com/in/sofia-dominguezc
+
 
 <!--
 **sofia-dominguezc/sofia-dominguezc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
