@@ -1,10 +1,6 @@
 ## Sofia Dominguez
 
-I'm an MIT student insterested in machine learning research and multuple applications.
-
-I'm currently working on a Brain Foundation Model with <a href="https://jd730.github.io">Jaedong Hwang</a> and <a href="https://github.com/thomas-cong">Thomas Cong</a>, where we aim to generate high quality brain fMRI samples from multimodal conditioning (EEG, MRI).
-
-I also like math (geometry!), and I did an internship at <a href="https://www.citadel.com/careers/details/launch-intern-us/">Citadel</a> last Summer.
+I'm an MIT student studying math and computer science interested in machine learning.
 
 Resume: [Resume Sofia Dominguez.pdf](https://github.com/user-attachments/files/24658770/Resume.Sofia.Dominguez.pdf)
 
