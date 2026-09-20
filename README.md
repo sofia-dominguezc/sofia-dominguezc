@@ -1,6 +1,6 @@
 ## Sofia Dominguez
 
-I'm an MIT student studying math and computer science interested in machine learning.
+I'm an MIT student in math and computer science interested in machine learning.
 
 Resume: [Resume Sofia Dominguez.pdf](https://github.com/user-attachments/files/24658770/Resume.Sofia.Dominguez.pdf)
 
